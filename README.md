@@ -1,2 +1,2 @@
 # CSCI4120
-Principles of Computer Game Software
+Saves all assignments of CSCI4120 Principles of Computer Game Software.
